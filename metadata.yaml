@@ -1,5 +1,8 @@
 _repo: Le-dessous-b-roman_75199
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75199-h/images/cover.jpg
 creator:
   author:
     agent_name: Rachilde
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Rachilde
     - https://fr.wikipedia.org/wiki/Rachilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75199#Le-dessous-b-roman
 gutenberg_issued: '2025-01-24'
 gutenberg_type: Text
 identifiers:
